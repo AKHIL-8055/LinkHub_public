@@ -1,0 +1,121 @@
+.container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .successMessage {
+    color: green;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .groupList {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    justify-content: center;
+  }
+  
+  .groupItem {
+    background: #202c33;
+    border: 1px solid #202c33;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .groupLink {
+    color: #1ebc59;
+    text-decoration: none;
+  }
+  
+  .editButton, .deleteButton {
+    padding: 5px 10px;
+    margin-top: 10px;
+    background-color: #1ebc59;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .deleteButton {
+    background-color: #dc3545;
+  }
+  
+  .editButton:hover, .deleteButton:hover {
+    opacity: 0.8;
+  }
+  
+  .modalOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  .error {
+    color: red;
+    text-align: center;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .groupList {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .groupList {
+      grid-template-columns: 1fr;
+    }
+  
+    .modal {
+      width: 90%;
+    }
+  }
+  
