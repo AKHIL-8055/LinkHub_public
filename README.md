@@ -1,3 +1,7 @@
+Here’s an improved README with your updates:
+
+---
+
 # 🤔 Imagine a Website Where Finding Classmates is Easy – That's LinkHub!
 
 🔗 **The one-stop place to find & share your class WhatsApp groups!**  
@@ -16,6 +20,8 @@
 ## 📚 About LinkHub
 Welcome to **LinkHub**, your one-stop platform for finding and managing class WhatsApp groups. We aim to bridge communication gaps in university by making it easy for students to connect with their classmates. Whether you're looking for study discussions, project collaborations, or important updates, LinkHub ensures you never miss out.  
 
+> 🔒 **Access is restricted to VIT-AP student email addresses only for security reasons.**  
+
 ## ✨ Why Choose LinkHub?
 - 🔍 **Seamless Group Discovery** – Find and join your class groups effortlessly.  
 - 📋 **Efficient Group Management** – Organize, share, and access links securely.  
@@ -29,7 +35,7 @@ At **LinkHub**, our mission is to create a more connected and collaborative lear
 - **Frontend:** ReactJS  
 - **Backend:** Spring Boot  
 - **Database:** PostgreSQL  
-- **Authentication:** OAuth2 Google Login  
+- **Authentication:** OAuth2 Google Login (Restricted to VIT-AP student emails)  
 - **Deployment:** Hosted on Render  
 
 ## 🚀 Getting Started
@@ -71,14 +77,13 @@ To deploy LinkHub on Render:
 
 ## 📧 Let's Connect!
 Got questions or ideas? Reach out! 😊  
-📩 **Email:** [Email](vulchiakhil@gmail.com)  
+📩 **Email:** *Currently unavailable*  
 💼 **LinkedIn:** [Akhil's Profile](https://www.linkedin.com/in/akhil-vulchi-4723132a6/)  
 🐙 **GitHub:** [Your GitHub](https://github.com/AKHIL-8055)  
-
-## 📄 License
-This project is licensed under the **MIT License**.  
-
----
+📸 **Instagram:** [@_akhil_2k4](https://www.instagram.com/_akhil_2k4/)  
 
 > _LinkHub - Bringing Students Closer, One Click at a Time!_
 
+---
+
+Would you like a badge for VIT-AP email restriction or any additional content? 😊
