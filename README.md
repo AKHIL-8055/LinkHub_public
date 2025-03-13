@@ -79,7 +79,7 @@ Got questions or ideas? Reach out! 😊
 🐙 **GitHub:** [Your GitHub](https://github.com/AKHIL-8055)  
 📸 **Instagram:** [@_akhil_2k4](https://www.instagram.com/_akhil_2k4/)  
 
-> _LinkHub - Bringing Students Closer, One Click at a Time!_
+> _LinkHub - Bringing Students Closer, One Click at a Time!__
 
 ---
 
