@@ -1,6 +1,3 @@
-Here’s an improved README with your updates:
-
----
 
 # 🤔 Imagine a Website Where Finding Classmates is Easy – That's LinkHub!
 
