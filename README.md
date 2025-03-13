@@ -74,7 +74,7 @@ To deploy LinkHub on Render:
 
 ## 📧 Let's Connect!
 Got questions or ideas? Reach out! 😊  
-📩 **Email:** *Currently unavailable*  
+📩 **Email:**  vulchiakhil@gmail.com  
 💼 **LinkedIn:** [Akhil's Profile](https://www.linkedin.com/in/akhil-vulchi-4723132a6/)  
 🐙 **GitHub:** [Your GitHub](https://github.com/AKHIL-8055)  
 📸 **Instagram:** [@_akhil_2k4](https://www.instagram.com/_akhil_2k4/)  
